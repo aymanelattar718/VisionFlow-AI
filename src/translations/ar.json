@@ -1,0 +1,73 @@
+{
+  "app": {
+    "name": "VisionFlow AI",
+    "tagline": "مولد الفيديو بالذكاء الاصطناعي",
+    "description": "أنشئ فيديوهات مذهلة بالذكاء الاصطناعي من النصوص"
+  },
+  "home": {
+    "createVideo": "إنشئ فيديو",
+    "welcome": "مرحباً بك في",
+    "subtitle": "حوّل أفكارك إلى فيديوهات واقعية بضغطة زر"
+  },
+  "generate": {
+    "title": "إنشاء فيديو",
+    "promptLabel": "وصف الفيديو",
+    "promptPlaceholder": "اكتب وصفاً تفصيلياً للفيديو الذي تريد إنشاءه... مثال: شروق الشمس على المحيط مع طيور تتحلق في السماء",
+    "sceneStyle": "نمط المشهد",
+    "sceneStyles": {
+      "realistic": "واقعي",
+      "cinematic": "سينمائي",
+      "artistic": "فني",
+      "animated": "متحرك"
+    },
+    "lighting": "الإضاءة",
+    "lightingOptions": {
+      "natural": "طبيعية",
+      "dramatic": "درامية",
+      "soft": "ناعمة",
+      "neon": "نيون"
+    },
+    "aspectRatio": "نسبة العرض إلى الارتفاع",
+    "aspectRatios": {
+      "9:16": "9:16 (عمودي)",
+      "16:9": "16:9 (أفقي)",
+      "1:1": "1:1 (مربع)"
+    },
+    "generateButton": "إنشاء الفيديو",
+    "generating": "جاري إنشاء الفيديو...",
+    "downloadButton": "تحميل الفيديو",
+    "fullscreenButton": "ملء الشاشة",
+    "videoPreview": "معاينة الفيديو",
+    "noVideo": "لم يتم إنشاء فيديو بعد"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "close": "إغلاق",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "back": "رجوع",
+    "next": "التالي",
+    "submit": "إرسال",
+    "tryAgain": "حاول مرة أخرى",
+    "required": "مطلوب",
+    "optional": "اختياري"
+  },
+  "errors": {
+    "somethingWentWrong": "حدث خطأ ما. يرجى المحاولة مرة أخرى",
+    "networkError": "خطأ في الاتصال بالشبكة",
+    "generationFailed": "فشل إنشاء الفيديو",
+    "invalidPrompt": "الوصف غير صالح. يرجى كتابة وصف أكثر تفصيلاً",
+    "fileDownloadFailed": "فشل تحميل الملف",
+    "apiTimeout": "انتهت مهلة الاتصال. يرجى المحاولة مرة أخرى"
+  },
+  "footer": {
+    "rightsReserved": "جميع الحقوق محفوظة",
+    "followUs": "تابعنا على",
+    "socialLinks": "روابط التواصل الاجتماعي"
+  }
+}

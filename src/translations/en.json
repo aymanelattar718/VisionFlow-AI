@@ -1,0 +1,73 @@
+{
+  "app": {
+    "name": "VisionFlow AI",
+    "tagline": "AI Video Generator",
+    "description": "Create stunning AI-generated videos from text prompts"
+  },
+  "home": {
+    "createVideo": "Create Video",
+    "welcome": "Welcome to",
+    "subtitle": "Transform your ideas into realistic videos with one click"
+  },
+  "generate": {
+    "title": "Generate Video",
+    "promptLabel": "Video Description",
+    "promptPlaceholder": "Write a detailed description of the video you want to create... Example: Sunrise over the ocean with birds flying in the sky",
+    "sceneStyle": "Scene Style",
+    "sceneStyles": {
+      "realistic": "Realistic",
+      "cinematic": "Cinematic",
+      "artistic": "Artistic",
+      "animated": "Animated"
+    },
+    "lighting": "Lighting",
+    "lightingOptions": {
+      "natural": "Natural",
+      "dramatic": "Dramatic",
+      "soft": "Soft",
+      "neon": "Neon"
+    },
+    "aspectRatio": "Aspect Ratio",
+    "aspectRatios": {
+      "9:16": "9:16 (Portrait)",
+      "16:9": "16:9 (Landscape)",
+      "1:1": "1:1 (Square)"
+    },
+    "generateButton": "Generate Video",
+    "generating": "Generating video...",
+    "downloadButton": "Download Video",
+    "fullscreenButton": "Fullscreen",
+    "videoPreview": "Video Preview",
+    "noVideo": "No video generated yet"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "close": "Close",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "tryAgain": "Try Again",
+    "required": "Required",
+    "optional": "Optional"
+  },
+  "errors": {
+    "somethingWentWrong": "Something went wrong. Please try again",
+    "networkError": "Network connection error",
+    "generationFailed": "Failed to generate video",
+    "invalidPrompt": "Invalid prompt. Please write a more detailed description",
+    "fileDownloadFailed": "Failed to download file",
+    "apiTimeout": "Connection timeout. Please try again"
+  },
+  "footer": {
+    "rightsReserved": "All rights reserved",
+    "followUs": "Follow us on",
+    "socialLinks": "Social Media Links"
+  }
+}
